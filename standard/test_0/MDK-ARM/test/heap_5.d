@@ -1,0 +1,14 @@
+test\heap_5.o: ..\FreeRTOS\port\heap_5.c
+test\heap_5.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+test\heap_5.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\string.h
+test\heap_5.o: ..\FreeRTOS\inc\FreeRTOS.h
+test\heap_5.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stddef.h
+test\heap_5.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stdint.h
+test\heap_5.o: ..\FreeRTOS\FreeRTOSConfig.h
+test\heap_5.o: ..\FreeRTOS\inc\projdefs.h
+test\heap_5.o: ..\FreeRTOS\inc\portable.h
+test\heap_5.o: ..\FreeRTOS\inc\deprecated_definitions.h
+test\heap_5.o: ..\FreeRTOS\port\portmacro.h
+test\heap_5.o: ..\FreeRTOS\inc\mpu_wrappers.h
+test\heap_5.o: ..\FreeRTOS\inc\task.h
+test\heap_5.o: ..\FreeRTOS\inc\list.h

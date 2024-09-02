@@ -1,0 +1,15 @@
+test\queue.o: ..\FreeRTOS\src\queue.c
+test\queue.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stdlib.h
+test\queue.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\string.h
+test\queue.o: ..\FreeRTOS\inc\FreeRTOS.h
+test\queue.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stddef.h
+test\queue.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stdint.h
+test\queue.o: ..\FreeRTOS\FreeRTOSConfig.h
+test\queue.o: ..\FreeRTOS\inc\projdefs.h
+test\queue.o: ..\FreeRTOS\inc\portable.h
+test\queue.o: ..\FreeRTOS\inc\deprecated_definitions.h
+test\queue.o: ..\FreeRTOS\port\portmacro.h
+test\queue.o: ..\FreeRTOS\inc\mpu_wrappers.h
+test\queue.o: ..\FreeRTOS\inc\task.h
+test\queue.o: ..\FreeRTOS\inc\list.h
+test\queue.o: ..\FreeRTOS\inc\queue.h

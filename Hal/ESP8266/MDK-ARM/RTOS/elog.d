@@ -1,0 +1,9 @@
+.\rtos\elog.o: ..\easylogger\src\elog.c
+.\rtos\elog.o: ../easylogger/inc/elog.h
+.\rtos\elog.o: ../easylogger/inc/elog_cfg.h
+.\rtos\elog.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\rtos\elog.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stddef.h
+.\rtos\elog.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stdbool.h
+.\rtos\elog.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\string.h
+.\rtos\elog.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stdarg.h
+.\rtos\elog.o: D:\Keil_v5.36\ARM\ARMCC\Bin\..\include\stdio.h
